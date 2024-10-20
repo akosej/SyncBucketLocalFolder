@@ -59,5 +59,5 @@ Opciones de línea de comandos
 
 ## Ejemplo de uso
 ```bash
-    ./agaSyncBucket --endPoint http://localhost:9000 --accessKey minioadmin --secretKey minioadmin --bucket mybucket --folder /ruta/a/mi/carpeta --ssl false
+    ./agaSyncBucket --endPoint localhost:9000 --accessKey minioadmin --secretKey minioadmin --bucket mybucket --folder /ruta/a/mi/carpeta --ssl false
 ```
